@@ -1,0 +1,243 @@
+{
+  "Shieldox_activity_time": [
+    "#time #is #any #time #any [person] #activity #any #file?",
+    "#time #do #user #activity #any #file #to #any #time?"
+  ],
+  "Shieldox_does_external_user_have_activity": [
+    "#do [person] #activity #any #file #outside #any #company?",
+    "#do [person] #try #to #activity #any #file #outside #any #company?",
+    "#do #user #activity #any #red #file #outside #any #company?",
+    "#do #user #try #to #activity #any #file #outside #any #company?",
+    "#do #user #outside #any #company #activity #any #file?",
+    "#do #user #outside #any #company #activity #any #copy #any #file?"
+  ],
+  "Shieldox_activity_user": [
+    "#any #user #activity #any #file?",
+    "#any #user #activity #any #folder?"
+  ],
+  "Shieldox_activity_last_user": [
+    "#user #is #any #time #to #activity #any #file?",
+    "#user #is #any #time #to #activity #any #folder?"
+  ],
+  "Shieldox_external_user_activity": [
+    "#user #activity #any #file #from #outside #any #company?",
+    "#user #activity #any #folder #from #outside #any #company?",
+    "#user #outside #any #company #activity #any #file?",
+    "#user #outside #any #company #try #to #activity #any #file?",
+    "#user #outside #any #company #activity #any #from #any #file?"
+  ],
+  "Shieldox_timeframe_blocked_actions": [
+    "#show #me #any #activity #is #protect #time"
+  ],
+  "Shieldox_blocked_action_user": [
+    "#user #try #to #do #any #activity #any #is #protect?",
+    "#show #me #user #user #do #protect #activity",
+    "#user #try #to #do #any #activity #any #is #protect #time?",
+    "#show #me #user #user #do #protect #activity #time",
+    "#user #try #to #copy #any #from #any #red #file #to #any #unprotect #location?"
+  ],
+  "Shieldox_has_blocked_action": [
+    "#do #shieldox #protect #any #activity #time?",
+    "#is #any #activity #protect #time?",
+    "#is #protect #activity #time?"
+  ],
+  "Shieldox_find_copies": [
+    "#show #me #any #copy #any #file",
+    "#show #me #any #file #copy",
+    "#show #me #any #copy #any #file #from #any #folder",
+    "#quantity #copy #any #any #file #is?"
+  ],
+  "Shieldox_find_copies_outside": [
+    "#show #me #any #copy #any #file #any #is #outside #any #company",
+    "#show #me #any #file #copy #outside #any #company"
+  ],
+  "Shieldox_has_copies": [
+    "#do #any #file #has #any #copy?",
+    "#do #any #filetype #file #has #any #copy?",
+    "#is #any #copy?",
+    "#is #any #copy #any #file?",
+    "#is #any #copy #any #filetype #file?"
+  ],
+  "Shieldox_copies_outside": [
+    "#do #any #file #has #any #copy #outside #any #company?",
+    "#do #any #filetype #file #has #any #copy #outside #any #company?",
+    "#is #any #copy #any #file #outside #any #company?",
+    "#is #any #copy #any #filetype #file #outside #any #company?",
+    "#do #user #outside #any #company #has #any #copy #any #file?",
+    "#do #user #outside #any #company #has #any #copy #any #filetype #file?",
+    "#show #me #any #copy #any #file #any #is #outside #any #company"
+  ],
+  "Shieldox_copy_pasted": [
+    "#show #me #any #text #any #is #activity #from #any #file",
+    "#show #me #show #is #activity #from #any #file",
+    "#show #do [person] #copy #from #any #file?",
+    "#show #is #activity #from #any #file?"
+  ],
+  "Shieldox_has_copypaste": [
+    "#do #user #copy #any #from #any #file?",
+    "#is #any #text #any #file #activity?",
+    "#is #any #text #activity #from #red #file #to #unprotect #location?"
+  ],
+  "Shieldox_find_file": [
+    "#show #me #any #white #file",
+    "#show #me #any #green #file",
+    "#show #me #any #yellow #file",
+    "#show #me #any #red #file",
+    "#show #me #any #red #file #from #any #folder",
+    "#show #any #unprotect #file #from #any #folder #any #is #subfolder",
+    "#show #me #any #unprotect #file #from #any #folder",
+    "#show #me #any #unprotect #file #from #any #folder #any #is #subfolder",
+    "#show #me #any #file #me #has #red",
+    "#show #me #any #file #any [person] #has #red",
+    "#any #file #from #any #folder [person] #has #activity?",
+    "#any #file #from #any #folder [person] #has #activity #time?"
+  ],
+  "Shieldox_find_folder": [
+    "#show #me #any #white #folder",
+    "#show #me #any #green #folder",
+    "#show #me #any #yellow #folder",
+    "#show #me #any #red #folder",
+    "#show #me #any #red #subfolder #from #any #folder",
+    "#show #me #any #unprotect #subfolder #from #any #folder"
+  ],
+  "Shieldox_file_color": [
+    "#show #any #file #color",
+    "#show #me #any #file #color"
+  ],
+  "Shieldox_folder_color": [
+    "#show #any #folder #color",
+    "#show #me #any #folder #color"
+  ],
+  "Shieldox_grant_access": [
+    "#scope [person] #to #activity #any #file",
+    "#scope [person] #to #activity #any #folder",
+    "#scope #user #from #any #company #to #activity #any #folder",
+    "#scope #user #from #any #company #to #activity #any #file",
+    "#scope #any [group] #scope #to #activity #any #folder",
+    "#scope [person] #activity #scope #to #any #file",
+    "#scope [person] #to #activity #any #folder",
+    "#scope #any [group] #scope #activity #scope #from #any #folder",
+    "#scope #any [group] #scope #to #activity #any #file"
+  ],
+  "Shieldox_protect": [
+    "#protect #any #file",
+    "#protect #any #file #like #red",
+    "#protect #any #file #like #yellow",
+    "#protect #any #file #like #green",
+    "#protect #any #folder",
+    "#protect #any #folder #like #red",
+    "#protect #any #folder #like #yellow",
+    "#protect #any #folder #like #green",
+    "#protect #any #folder [folder] #from #any #cloud",
+    "#protect #any #file [file] #from #any #folder [folder]",
+    "#protect #any #file #prefix [prefix] #from #any #cloud",
+    "#protect #any #file #prefix [prefix] #from #any #cloud #any #protect #user #like #red",
+    "#protect #any #file #prefix [prefix] #from #any #cloud #like #red"
+  ],
+  "Shieldox_backward_protect": [
+    "#protect #any #copy #any #file",
+    "#protect #any #copy #any #file #any #is #outside #any [group] #scope",
+    "#protect #any #copy #any #file #any #is #outside #any #scope",
+    "#protect #any #copy #any #file #any #is #outside #any #company"
+  ],
+  "Shieldox_unprotect": [
+    "#unprotect #any #file",
+    "#unprotect #any #file #protect",
+    "#unprotect #any #folder",
+    "#unprotect #any #folder #protect"
+  ],
+  "Shieldox_file_sent": [
+    "#any #file #from #any #folder #is #send?",
+    "#any #file #from #any #folder #is #send #to [person]?",
+    "#any #any #file #is #send?",
+    "#any #file #is #send #to [person]?"
+  ],
+  "Shieldox_file_sent_outside": [
+    "#show #me #any #file #any #is #send #outside #any #company",
+    "#show #me #any #file #any [person] #send #outside #any #company",
+    "#show #me #any #red #file #is #send #outside #any #company",
+    "#any #file #is #send #outside #any #company?"
+  ],
+  "Shieldox_was_sent": [
+    "#is #any #file #from #any #folder #send #to [person]?",
+    "#is #any #file #send #to [person]?",
+    "#is #any #file #send?"
+  ],
+  "Shieldox_was_sent_outside": [
+    "#do [person] #try #to #send #any #file #outside #any #company?",
+    "#do [person] #try #to #send #any #red #file #outside #any #company?",
+    "#do #user #try #to #send #any #file #outside #any #company?",
+    "#do #user #try #to #send #any #red #file #outside #any #company?"
+  ],
+  "Shieldox_sender": [
+    "#user #send #any #file #to [person]?",
+    "#user #send #any #folder #to [person]?",
+    "#user #send #any #file?",
+    "#user #send #any #folder?"
+  ],
+  "Shieldox_sender_to_outside": [
+    "#user #send #any #file #to #outside #any #company?",
+    "#user #send #any #file #to #user #from #outside #any #company?",
+    "#user #send #any #folder #outside #any #company?",
+    "#user #send #any #folder #to #user #from #outside #any #company?"
+  ],
+  "Shieldox_screenshot": [
+    "#show #do #user #take #any #activity #any?",
+    "#show #me #any #activity #any #is #take",
+    "#show #me #any #activity #user #take #any #file"
+  ],
+  "Shieldox_has_screenshot": [
+    "#do #user #take #any #activity #any #file?",
+    "#is #any #activity #any #file #take?"
+  ],
+  "Shieldox_modify_date": [
+    "#time #is #any #file #time #activity?",
+    "#show #me #any #file #time #activity #time",
+    "#time #is #any #time #any #user #activity #any #file?",
+    "#time #is #any #time #any [person] #activity #any #file?"
+  ],
+  "Shieldox_find_users_no_activity": [
+    "#show #me #user #do_not #protect #any #file #time",
+    "#user #do_not #protect #any #file #time?"
+  ],
+  "Shieldox_user_protect": [
+    "#show #me #any #user #red #file #time"
+  ],
+  "Shieldox_user_unprotect": [
+    "#show #me #user #unprotect #any #file",
+    "#show #me #any #user #unprotect #any #file #protect",
+    "#user #unprotect #from #any #file #any #is #linked #any #folder?",
+    "#show #me #user #unprotect #any #file #time"
+  ],
+  "Shieldox_find_linked_file": [
+    "#show #me #any #unprotect #file #from [person] #any #is #linked #to #any #red #file"
+  ],
+  "Shieldox_find_file_outside": [
+    "#show #me #file #user #owner #is #outside #any #company"
+  ],
+  "Shieldox_protected_time": [
+    "#time #is #any #time #any [person] #red #any #file?",
+    "#time #do #user #protect #any #file #to #any #time?",
+    "#time #is #any #file #red?"
+  ],
+  "Shieldox_find_file_activity": [
+    "#is #any #file #activity #to #any #cloud?",
+    "#is #any #file #activity #to #cloud?",
+    "#do #user #activity #any #file?",
+    "#do [person] #activity #any #file #from #any #folder?"
+  ],
+  "Shieldox_recipient": [
+    "#user #to #any #file #from [person]?",
+    "#user #to #any #folder #from [person]?",
+    "#user #to #any #file?",
+    "#user #to #any #folder?",
+    "#show #me #any #user [person] #has #send #red #file #to",
+    "#show #me #any #user #to #red #file #from [person]"
+  ],
+  "Shieldox_recipient_outside": [
+    "#user #outside #any #company #has #to #any #file?",
+    "#user #to #any #folder #outside #any #company?",
+    "#show #me #any #user #outside #any #company #any [person] #has #send #red #file #to",
+    "#show #me #any #user #from #outside #any #company #user #to #red #file #from [person]"
+  ]
+}

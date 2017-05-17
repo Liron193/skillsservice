@@ -1,0 +1,1 @@
+export const JSONS_PATH: string = __dirname + '/public/jsons';

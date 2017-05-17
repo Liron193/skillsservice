@@ -1,0 +1,12 @@
+{
+    "prod": {
+        "shieldox": {
+            "url": ""
+        }
+    },
+    "dev": {
+        "shieldox": {
+            "url": ""
+        }
+    }
+}

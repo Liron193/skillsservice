@@ -1,0 +1,186 @@
+{
+  "Shieldox_activity_time": {
+    "no": "I did not find any activities. Is there anything else I can help you with?",
+    "yes": "This activity was last performed on the file [file], at [time]."
+  },
+  "Shieldox_activity_outside": {
+    "no": "I did not find any activities. Is there anything else I can help you with?",
+    "yes_single": "User [user] has performed 1 action outside the organization: [activity]",
+    "yes_multi": "User [user] has performed [number] actions outside the organization: [activities]"
+  },
+  "Shieldox_activity_user": {
+    "no": "I did not find any activities. Is there anything else I can help you with?",
+    "yes": "This activity was performed by [person]."
+  },
+  "Shieldox_activity_user_outside": {
+    "no": "I did not find any activities. Is there anything else I can help you with?",
+    "yes": "This activity was performed by [person].",
+    "yes_file": "This activity was performed on the document [document] by [person]."
+  },
+  "Shieldox_blocked_action": {
+    "no": "I did not find any blocked actions. Is there anything else I can help you with?",
+    "yes_single": "I blocked 1 action: [activity]",
+    "yes_multi": "I blocked [number] actions: [activities]"
+  },
+  "Shieldox_blocked_action_user": {
+    "no": "I did not find any users. Is there anything else I can help you with?",
+    "yes_user_no_action": "This activity was performed by [person].",
+    "yes_single": "I blocked 1 action by the user [user]: [action]",
+    "yes_multi": "I blocked [number] actions by the user [user]: [actions]"
+  },
+  "Shieldox_has_blocked_action": {
+    "no": "I did not find any blocked actions. Is there anything else I can help you with? ",
+    "yes_single": "I blocked 1 action: [activities]",
+    "yes_multi": "I blocked [number] actions: [activities]"
+  },
+  "Shieldox_find_copies": {
+    "no": "I did not find any copies. Is there anything else I can help you with?",
+    "yes_single": "I found 1 copy: [copy]",
+    "yes_multi": "I found [number] copies: [copies]"
+  },
+  "Shieldox_find_copies_outside": {
+    "no": "I did not find any copies of this file outside the organization. Is there anything else I can help you with?",
+    "yes_single": "I found 1 copy outside the organization: [copy]",
+    "yes_multi": "I found [number] copies outside the organization: [copies]"
+  },
+  "Shieldox_has_copies": {
+    "no": "I did not find any copies. Is there anything else I can help you with?",
+    "yes_single": "I found 1 copy: [copy]",
+    "yes_multi": "I found [number] copies: [copies]",
+    "info_missing": "Please be more specific. Copies of what?"
+  },
+  "Shieldox_copies_outside": {
+    "no": "I did not find any copies of this file outside the organization. Is there anything else I can help you with?",
+    "yes_single": "I found 1 copy of this document outside the organization: [copy]",
+    "yes_multi": "I found [number] copies of this document outside the organization: [copies]",
+    "yes_user_single": "External User [user] has 1 copy of this file: [copy]",
+    "yes_user_multi": "External User [user] has [number] copies of this file: [copies]",
+    "yes_users_multi": "External Users [users] have [number] copies of this file: [copies]"
+  },
+  "Shieldox_copy_pasted": {
+    "no": "Nothing had been copy-pasted from this document. Is there anything else I can help you with?",
+    "yes": "The following content had been copy-pasted from the document: [content]"
+  },
+  "Shieldox_has_copypaste": {
+    "no": "Nothing was copy-pasted from this document. Is there anything else I can help you with?",
+    "yes": "User [user] had copied the following content from this document: [content]"
+  },
+  "Shieldox_find_file": {
+    "no": "I did not find any files. Is there anything else I can help you with?",
+    "yes_single": "I found 1 file: [file].",
+    "yes_multi": "I found [number] files: [files]."
+  },
+  "Shieldox_find_folder": {
+    "no": "I did not find any folders. Is there anything else I can help you with?",
+    "yes_single": "I found 1 folder: [folder].",
+    "yes_multi": "I found [number] folders: [folders]."
+  },
+  "Shieldox_file_color": {
+    "no": "This file has no color. It is unprotected!",
+    "yes": "This file's color is [color]."
+  },
+  "Shieldox_folder_color": {
+    "no": "This folder has no color. It is unprotected!",
+    "yes": "This folder's color is [color]."
+  },
+  "Shieldox_grant_access": {
+    "no": "I am sorry, I could not fulfill your request. Is there anything else I can help you with?",
+    "yes": "Access granted!"
+  },
+  "Shieldox_protect": {
+    "no": "I am sorry, I could not fulfill your request. Is there anything else I can help you with?",
+    "yes": "Success! You are now protected!"
+  },
+  "Shieldox_backward_protect": {
+    "no": "I am sorry, I could not fulfill your request. Is there anything else I can help you with?",
+    "yes": "Success! You are now protected!"
+  },
+  "Shieldox_unprotect": {
+    "no": "I am sorry, I could not fulfill your request. Is there anything else I can help you with?",
+    "yes": "Successfully unprotected."
+  },
+  "Shieldox_file_sent": {
+    "no": "None of those documents have been sent. Is there anything else I can help you with?",
+    "yes_single": "1 document has been sent to [user]: [document].",
+    "yes_multi": "[number] documents had been sent to [user]: [documents]."
+  },
+  "Shieldox_file_sent_outside": {
+    "no": "No files had been sent outside the organization. Is there anything else I can help you with?",
+    "yes_single": "1 file had been sent to the external user [user]: [documents].",
+    "yes_multi": "[number] files had been sent to the external user [user]: [documents]."
+  },
+  "Shieldox_was_sent": {
+    "no": "I did not find any actions. Is there anything else I can help you with?",
+    "yes_single": "User [user] had sent 1 file to [person]: [file].",
+    "yes_multi": "User [user] had sent [number] files to [person]: [files]."
+  },
+  "Shieldox_was_sent_outside": {
+    "no": "No one had tried to send those documents outside the organization. Is there anything else I can help you with?",
+    "yes_single": "User [person] had attempted to send 1 file outside the organization: [file].",
+    "yes_multi": "User [person] had attempted to send [number] files outside the organization: [files]."
+  },
+  "Shieldox_sender": {
+    "no": "This file was not sent. Is there anything else I can help you with?",
+    "yes": "This file was sent to [person] by [user]."
+  },
+  "Shieldox_sender_to_outside": {
+    "no": "This file was not sent outside the organization. Is there anything else I can help you with?",
+    "yes": "This file was sent to the external user [person] by [user]."
+  },
+  "Shieldox_screenshot": {
+    "no": "I did not find any screenshots of this document. Is there anything else I can help you with?",
+    "yes": "The following screenshot of this document was taken by User [user]: [screenshot]"
+  },
+  "Shieldox_has_screenshot": {
+    "no": "I did not find any screenshots of this document. Is there anything else I can help you with?",
+    "yes": "The following screenshot of this document was taken by User [user]: [screenshot]"
+  },
+  "Shieldox_modify_date": {
+    "no": "This document was never modified. Is there anything else I can help you with?",
+    "yes": "This document was last modified on [date]."
+  },
+  "Shieldox_find_users_no_activity": {
+    "no": "I did not find any users. Is there anything else I can help you with?",
+    "yes_single": "I found 1 User: [user]",
+    "yes_multi": "I found [number] Users: [users]"
+  },
+  "Shieldox_user_protect": {
+    "no": "I did not find any users. Is there anything else I can help you with?",
+    "yes_single": "I found 1 User: [user]",
+    "yes_multi": "I found [number] Users: [users]"
+  },
+  "Shieldox_user_unprotect": {
+    "no": "I did not find any users. Is there anything else I can help you with?",
+    "yes_single": "I found 1 User: [user]",
+    "yes_multi": "I found [number] Users: [users]"
+  },
+  "Shieldox_find_linked_file": {
+    "no": "I did not find any documents. Is there anything else I can help you with?",
+    "yes_single": "I found 1 document: [file]. It is linked to the file [file2].",
+    "yes_multi": "I found [number] documents: [files]. They are linked to the file [file2]."
+  },
+  "Shieldox_find_file_outside": {
+    "no": "I did not find any documents. Is there anything else I can help you with?",
+    "yes_single": "I found 1 document: [user]. It is owned by [person].",
+    "yes_multi": "I found [number] documents: [files]. They are owned by [person]."
+  },
+  "Shieldox_protected_time": {
+    "no": "This document was never protected!",
+    "yes": "The document [file] was protected on [time], by [user]."
+  },
+  "Shieldox_find_file_activity": {
+    "no": "I found no such activity. Is there anything else I can help you with?",
+    "yes_single": "This activity was performed on the file [file], by [person].",
+    "yes_multi": "This activity was performed by [person], on the following [number] files: [files]"
+  },
+  "Shieldox_recipient": {
+    "no": "I did not find any users. Is there anything else I can help you with?",
+    "yes_single": "I found 1 User: [user]",
+    "yes_multi": "I found [number] Users: [users]"
+  },
+  "Shieldox_recipient_outside": {
+    "no": "I did not find any users. Is there anything else I can help you with?",
+    "yes_single": "I found 1 User: [user]",
+    "yes_multi": "I found [number] Users: [users]"
+  }
+}

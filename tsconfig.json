@@ -1,0 +1,13 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "module": "commonjs",
+        "rootDir": "src",
+        "outDir": "app",
+        "sourceMap": true,
+        "target": "es6"
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
